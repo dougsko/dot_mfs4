@@ -1,0 +1,1631 @@
+[07/03/2012 13:34:40] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 13:40:00] [e(0)] core: Exploit failed (windows/fileformat/ms12_005): The following options failed to validate: PAYLOAD_TYPE.
+[07/03/2012 13:40:13] [i(0)] core: windows/messagebox: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 297)
+[07/03/2012 13:40:53] [e(0)] core: Error in stream server client monitor: undefined method `[]' for nil:NilClass
+
+Call stack:
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 13:47:29] [e(0)] core: Error in stream server client monitor: undefined method `[]' for nil:NilClass
+
+Call stack:
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 13:49:22] [e(0)] core: Error in stream server client monitor: undefined method `[]' for nil:NilClass
+
+Call stack:
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 13:58:40] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 14:00:04] [i(0)] core: windows/messagebox: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 297)
+[07/03/2012 14:00:34] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:01:57] [e(0)] rex: Failed to find handler for resource: /
+[07/03/2012 14:01:58] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:02:11] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:05:18] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 14:06:18] [i(0)] core: windows/messagebox: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 303)
+[07/03/2012 14:09:24] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 14:09:53] [i(0)] core: windows/messagebox: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 303)
+[07/03/2012 14:10:04] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:41:41] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:41:43] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:43:58] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 14:44:52] [d(0)] core: Reloading module multi/browser/firefox_escape_retval...
+[07/03/2012 14:44:52] [w(0)] core: The module multi/browser/firefox_escape_retval is ambiguous with multi/browser/firefox_escape_retval.
+[07/03/2012 14:44:53] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 14:44:54] [d(0)] core: Reloading module multi/browser/java_atomicreferencearray...
+[07/03/2012 14:44:54] [w(0)] core: The module multi/browser/java_atomicreferencearray is ambiguous with multi/browser/java_atomicreferencearray.
+[07/03/2012 14:44:54] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:44:54] [d(0)] core: Reloading module multi/browser/java_rhino...
+[07/03/2012 14:44:54] [w(0)] core: The module multi/browser/java_rhino is ambiguous with multi/browser/java_rhino.
+[07/03/2012 14:44:54] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:44:55] [d(0)] core: Reloading module multi/browser/mozilla_compareto...
+[07/03/2012 14:44:55] [w(0)] core: The module multi/browser/mozilla_compareto is ambiguous with multi/browser/mozilla_compareto.
+[07/03/2012 14:44:55] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 14:44:56] [d(0)] core: Reloading module multi/browser/mozilla_navigatorjava...
+[07/03/2012 14:44:56] [w(0)] core: The module multi/browser/mozilla_navigatorjava is ambiguous with multi/browser/mozilla_navigatorjava.
+[07/03/2012 14:44:56] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 14:44:56] [d(0)] core: Reloading module multi/browser/opera_configoverwrite...
+[07/03/2012 14:44:56] [w(0)] core: The module multi/browser/opera_configoverwrite is ambiguous with multi/browser/opera_configoverwrite.
+[07/03/2012 14:44:57] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 281)
+[07/03/2012 14:44:57] [d(0)] core: Reloading module multi/browser/opera_historysearch...
+[07/03/2012 14:44:57] [w(0)] core: The module multi/browser/opera_historysearch is ambiguous with multi/browser/opera_historysearch.
+[07/03/2012 14:44:57] [d(0)] core: Module generic/custom is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 14:44:57] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 14:44:57] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 14:44:57] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 589)
+[07/03/2012 14:44:58] [d(0)] core: Reloading module osx/browser/mozilla_mchannel...
+[07/03/2012 14:44:58] [w(0)] core: The module osx/browser/mozilla_mchannel is ambiguous with osx/browser/mozilla_mchannel.
+[07/03/2012 14:44:59] [d(0)] core: Reloading module osx/browser/safari_metadata_archive...
+[07/03/2012 14:44:59] [w(0)] core: The module osx/browser/safari_metadata_archive is ambiguous with osx/browser/safari_metadata_archive.
+[07/03/2012 14:44:59] [d(0)] core: Module generic/custom is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 14:44:59] [d(0)] core: Module generic/shell_bind_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 14:44:59] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 14:44:59] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 140)
+[07/03/2012 14:44:59] [e(0)] core: Exploit failed (osx/browser/safari_metadata_archive): This exploit requires the zip command to be installed in your path
+[07/03/2012 14:44:59] [d(0)] core: Reloading module windows/browser/adobe_flash_mp4_cprt...
+[07/03/2012 14:44:59] [w(0)] core: The module windows/browser/adobe_flash_mp4_cprt is ambiguous with windows/browser/adobe_flash_mp4_cprt.
+[07/03/2012 14:44:59] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:00] [d(0)] core: Reloading module windows/browser/adobe_flash_rtmp...
+[07/03/2012 14:45:00] [w(0)] core: The module windows/browser/adobe_flash_rtmp is ambiguous with windows/browser/adobe_flash_rtmp.
+[07/03/2012 14:45:00] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:01] [d(0)] core: Reloading module windows/browser/apple_quicktime_marshaled_punk...
+[07/03/2012 14:45:01] [w(0)] core: The module windows/browser/apple_quicktime_marshaled_punk is ambiguous with windows/browser/apple_quicktime_marshaled_punk.
+[07/03/2012 14:45:01] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:02] [d(0)] core: Reloading module windows/browser/apple_quicktime_rtsp...
+[07/03/2012 14:45:02] [w(0)] core: The module windows/browser/apple_quicktime_rtsp is ambiguous with windows/browser/apple_quicktime_rtsp.
+[07/03/2012 14:45:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:03] [d(0)] core: Reloading module windows/browser/apple_quicktime_smil_debug...
+[07/03/2012 14:45:03] [w(0)] core: The module windows/browser/apple_quicktime_smil_debug is ambiguous with windows/browser/apple_quicktime_smil_debug.
+[07/03/2012 14:45:04] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:05] [d(0)] core: Reloading module windows/browser/blackice_downloadimagefileurl...
+[07/03/2012 14:45:05] [w(0)] core: The module windows/browser/blackice_downloadimagefileurl is ambiguous with windows/browser/blackice_downloadimagefileurl.
+[07/03/2012 14:45:05] [d(0)] core: Reloading module windows/browser/ibm_tivoli_pme_activex_bof...
+[07/03/2012 14:45:05] [w(0)] core: The module windows/browser/ibm_tivoli_pme_activex_bof is ambiguous with windows/browser/ibm_tivoli_pme_activex_bof.
+[07/03/2012 14:45:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:06] [d(0)] core: Reloading module windows/browser/ie_createobject...
+[07/03/2012 14:45:06] [w(0)] core: The module windows/browser/ie_createobject is ambiguous with windows/browser/ie_createobject.
+[07/03/2012 14:45:07] [d(0)] core: Reloading module windows/browser/mozilla_interleaved_write...
+[07/03/2012 14:45:07] [w(0)] core: The module windows/browser/mozilla_interleaved_write is ambiguous with windows/browser/mozilla_interleaved_write.
+[07/03/2012 14:45:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:07] [d(0)] core: Reloading module windows/browser/mozilla_mchannel...
+[07/03/2012 14:45:07] [w(0)] core: The module windows/browser/mozilla_mchannel is ambiguous with windows/browser/mozilla_mchannel.
+[07/03/2012 14:45:08] [d(0)] core: Reloading module windows/browser/mozilla_nstreerange...
+[07/03/2012 14:45:08] [w(0)] core: The module windows/browser/mozilla_nstreerange is ambiguous with windows/browser/mozilla_nstreerange.
+[07/03/2012 14:45:09] [d(0)] core: Reloading module windows/browser/ms10_018_ie_behaviors...
+[07/03/2012 14:45:09] [w(0)] core: The module windows/browser/ms10_018_ie_behaviors is ambiguous with windows/browser/ms10_018_ie_behaviors.
+[07/03/2012 14:45:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:45:10] [d(0)] core: Reloading module windows/browser/ms11_003_ie_css_import...
+[07/03/2012 14:45:10] [w(0)] core: The module windows/browser/ms11_003_ie_css_import is ambiguous with windows/browser/ms11_003_ie_css_import.
+[07/03/2012 14:45:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:10] [d(0)] core: Reloading module windows/browser/ms11_050_mshtml_cobjectelement...
+[07/03/2012 14:45:10] [w(0)] core: The module windows/browser/ms11_050_mshtml_cobjectelement is ambiguous with windows/browser/ms11_050_mshtml_cobjectelement.
+[07/03/2012 14:45:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:45:11] [d(0)] core: Reloading module windows/browser/ms12_004_midi...
+[07/03/2012 14:45:11] [w(0)] core: The module windows/browser/ms12_004_midi is ambiguous with windows/browser/ms12_004_midi.
+[07/03/2012 14:45:12] [d(0)] core: Reloading module windows/browser/msxml_get_definition_code_exec...
+[07/03/2012 14:45:12] [w(0)] core: The module windows/browser/msxml_get_definition_code_exec is ambiguous with windows/browser/msxml_get_definition_code_exec.
+[07/03/2012 14:45:12] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:13] [d(0)] core: Reloading module windows/browser/tom_sawyer_tsgetx71ex552...
+[07/03/2012 14:45:13] [w(0)] core: The module windows/browser/tom_sawyer_tsgetx71ex552 is ambiguous with windows/browser/tom_sawyer_tsgetx71ex552.
+[07/03/2012 14:45:13] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:13] [d(0)] core: Reloading module windows/browser/winzip_fileview...
+[07/03/2012 14:45:13] [w(0)] core: The module windows/browser/winzip_fileview is ambiguous with windows/browser/winzip_fileview.
+[07/03/2012 14:45:13] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:14] [d(0)] core: Reloading module windows/browser/wmi_admintools...
+[07/03/2012 14:45:14] [w(0)] core: The module windows/browser/wmi_admintools is ambiguous with windows/browser/wmi_admintools.
+[07/03/2012 14:45:14] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:15] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:15] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder sparc/longxor_tag (size is 180)
+[07/03/2012 14:45:15] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:45:20] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 14:45:48] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:51] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:52] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:52] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:53] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:54] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:55] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:55] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:56] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:56] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:45:57] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:57] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:45:59] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:46:29] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:46:30] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:47:01] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:47:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:47:03] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:47:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:47:06] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:47:08] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:10] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:47:44] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:45] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:47] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:50] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:51] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:53] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:53] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:55] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:56] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:47:57] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:49:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:49:03] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:49:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:49:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:49:08] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:49:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:49:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:49:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:49:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:49:11] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:51:22] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:22] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:23] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:23] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:23] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:23] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:24] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:24] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:24] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:24] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:25] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:26] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:26] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:26] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:27] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:27] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:27] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:28] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:29] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:29] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:29] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:51:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:51:31] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:35] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:51:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:51:39] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:51:52] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:51:59] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/wmi_admintools.rb:216:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:52:23] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:52:25] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:26] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:27] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:27] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:52:29] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:31] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:32] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:52:32] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:52:32] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:52:32] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:52:34] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 14:52:57] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:52:57] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 14:53:59] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:01] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:02] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:02] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:54:02] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:03] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:04] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:04] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:54:04] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:06] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:07] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:54:07] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 14:54:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 14:54:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:54:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:54:12] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 14:54:15] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 14:54:18] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 15:20:08] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:10] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:10] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:11] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:11] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:12] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:12] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:12] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:12] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:13] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:13] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:13] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:13] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:14] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:14] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:14] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:14] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:15] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:15] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/ms10_018_ie_behaviors.rb:241:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:15] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:15] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/apple_quicktime_marshaled_punk.rb:236:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:20:16] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 15:20:17] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:21] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:20:22] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:20:23] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 15:20:24] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 15:20:55] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/wmi_admintools.rb:216:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 15:21:44] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 15:21:46] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:47] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:48] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:48] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 15:21:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:50] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:51] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:52] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 15:21:52] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 15:21:52] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 15:21:52] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 15:21:53] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 15:34:05] [w(0)] core: Session 1 has died
+[07/03/2012 15:34:28] [w(0)] core: Session 2 has died
+[07/03/2012 16:04:29] [d(0)] core: Reloading module multi/browser/firefox_escape_retval...
+[07/03/2012 16:04:29] [w(0)] core: The module multi/browser/firefox_escape_retval is ambiguous with multi/browser/firefox_escape_retval.
+[07/03/2012 16:04:30] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:04:30] [d(0)] core: Reloading module multi/browser/java_atomicreferencearray...
+[07/03/2012 16:04:30] [w(0)] core: The module multi/browser/java_atomicreferencearray is ambiguous with multi/browser/java_atomicreferencearray.
+[07/03/2012 16:04:30] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:04:31] [d(0)] core: Reloading module multi/browser/java_rhino...
+[07/03/2012 16:04:31] [w(0)] core: The module multi/browser/java_rhino is ambiguous with multi/browser/java_rhino.
+[07/03/2012 16:04:31] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:04:32] [d(0)] core: Reloading module multi/browser/mozilla_compareto...
+[07/03/2012 16:04:32] [w(0)] core: The module multi/browser/mozilla_compareto is ambiguous with multi/browser/mozilla_compareto.
+[07/03/2012 16:04:32] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:04:32] [d(0)] core: Reloading module multi/browser/mozilla_navigatorjava...
+[07/03/2012 16:04:32] [w(0)] core: The module multi/browser/mozilla_navigatorjava is ambiguous with multi/browser/mozilla_navigatorjava.
+[07/03/2012 16:04:33] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:04:33] [d(0)] core: Reloading module multi/browser/opera_configoverwrite...
+[07/03/2012 16:04:33] [w(0)] core: The module multi/browser/opera_configoverwrite is ambiguous with multi/browser/opera_configoverwrite.
+[07/03/2012 16:04:33] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 261)
+[07/03/2012 16:04:34] [d(0)] core: Reloading module multi/browser/opera_historysearch...
+[07/03/2012 16:04:34] [w(0)] core: The module multi/browser/opera_historysearch is ambiguous with multi/browser/opera_historysearch.
+[07/03/2012 16:04:34] [d(0)] core: Module generic/custom is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:04:34] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:04:34] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:04:34] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 589)
+[07/03/2012 16:04:35] [d(0)] core: Reloading module osx/browser/mozilla_mchannel...
+[07/03/2012 16:04:35] [w(0)] core: The module osx/browser/mozilla_mchannel is ambiguous with osx/browser/mozilla_mchannel.
+[07/03/2012 16:04:35] [d(0)] core: Reloading module osx/browser/safari_metadata_archive...
+[07/03/2012 16:04:35] [w(0)] core: The module osx/browser/safari_metadata_archive is ambiguous with osx/browser/safari_metadata_archive.
+[07/03/2012 16:04:35] [d(0)] core: Module generic/custom is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:04:35] [d(0)] core: Module generic/shell_bind_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:04:35] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:04:35] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 140)
+[07/03/2012 16:04:35] [e(0)] core: Exploit failed (osx/browser/safari_metadata_archive): This exploit requires the zip command to be installed in your path
+[07/03/2012 16:04:36] [d(0)] core: Reloading module windows/browser/adobe_flash_mp4_cprt...
+[07/03/2012 16:04:36] [w(0)] core: The module windows/browser/adobe_flash_mp4_cprt is ambiguous with windows/browser/adobe_flash_mp4_cprt.
+[07/03/2012 16:04:36] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:37] [d(0)] core: Reloading module windows/browser/adobe_flash_rtmp...
+[07/03/2012 16:04:37] [w(0)] core: The module windows/browser/adobe_flash_rtmp is ambiguous with windows/browser/adobe_flash_rtmp.
+[07/03/2012 16:04:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:37] [e(0)] core: Exploit failed (windows/browser/adobe_flash_rtmp): Rex::AddressInUse The address is already in use (0.0.0.0:1935).
+[07/03/2012 16:04:37] [d(0)] core: Reloading module windows/browser/apple_quicktime_marshaled_punk...
+[07/03/2012 16:04:37] [w(0)] core: The module windows/browser/apple_quicktime_marshaled_punk is ambiguous with windows/browser/apple_quicktime_marshaled_punk.
+[07/03/2012 16:04:38] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:38] [d(0)] core: Reloading module windows/browser/apple_quicktime_rtsp...
+[07/03/2012 16:04:38] [w(0)] core: The module windows/browser/apple_quicktime_rtsp is ambiguous with windows/browser/apple_quicktime_rtsp.
+[07/03/2012 16:04:39] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:04:40] [d(0)] core: Reloading module windows/browser/apple_quicktime_smil_debug...
+[07/03/2012 16:04:40] [w(0)] core: The module windows/browser/apple_quicktime_smil_debug is ambiguous with windows/browser/apple_quicktime_smil_debug.
+[07/03/2012 16:04:41] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:04:41] [d(0)] core: Reloading module windows/browser/blackice_downloadimagefileurl...
+[07/03/2012 16:04:41] [w(0)] core: The module windows/browser/blackice_downloadimagefileurl is ambiguous with windows/browser/blackice_downloadimagefileurl.
+[07/03/2012 16:04:42] [d(0)] core: Reloading module windows/browser/ibm_tivoli_pme_activex_bof...
+[07/03/2012 16:04:42] [w(0)] core: The module windows/browser/ibm_tivoli_pme_activex_bof is ambiguous with windows/browser/ibm_tivoli_pme_activex_bof.
+[07/03/2012 16:04:42] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:43] [d(0)] core: Reloading module windows/browser/ie_createobject...
+[07/03/2012 16:04:43] [w(0)] core: The module windows/browser/ie_createobject is ambiguous with windows/browser/ie_createobject.
+[07/03/2012 16:04:44] [d(0)] core: Reloading module windows/browser/mozilla_interleaved_write...
+[07/03/2012 16:04:44] [w(0)] core: The module windows/browser/mozilla_interleaved_write is ambiguous with windows/browser/mozilla_interleaved_write.
+[07/03/2012 16:04:44] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:44] [d(0)] core: Reloading module windows/browser/mozilla_mchannel...
+[07/03/2012 16:04:44] [w(0)] core: The module windows/browser/mozilla_mchannel is ambiguous with windows/browser/mozilla_mchannel.
+[07/03/2012 16:04:45] [d(0)] core: Reloading module windows/browser/mozilla_nstreerange...
+[07/03/2012 16:04:45] [w(0)] core: The module windows/browser/mozilla_nstreerange is ambiguous with windows/browser/mozilla_nstreerange.
+[07/03/2012 16:04:46] [d(0)] core: Reloading module windows/browser/ms10_018_ie_behaviors...
+[07/03/2012 16:04:46] [w(0)] core: The module windows/browser/ms10_018_ie_behaviors is ambiguous with windows/browser/ms10_018_ie_behaviors.
+[07/03/2012 16:04:46] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:04:47] [d(0)] core: Reloading module windows/browser/ms11_003_ie_css_import...
+[07/03/2012 16:04:47] [w(0)] core: The module windows/browser/ms11_003_ie_css_import is ambiguous with windows/browser/ms11_003_ie_css_import.
+[07/03/2012 16:04:47] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:47] [d(0)] core: Reloading module windows/browser/ms11_050_mshtml_cobjectelement...
+[07/03/2012 16:04:47] [w(0)] core: The module windows/browser/ms11_050_mshtml_cobjectelement is ambiguous with windows/browser/ms11_050_mshtml_cobjectelement.
+[07/03/2012 16:04:47] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:04:48] [d(0)] core: Reloading module windows/browser/ms12_004_midi...
+[07/03/2012 16:04:48] [w(0)] core: The module windows/browser/ms12_004_midi is ambiguous with windows/browser/ms12_004_midi.
+[07/03/2012 16:04:49] [d(0)] core: Reloading module windows/browser/msxml_get_definition_code_exec...
+[07/03/2012 16:04:49] [w(0)] core: The module windows/browser/msxml_get_definition_code_exec is ambiguous with windows/browser/msxml_get_definition_code_exec.
+[07/03/2012 16:04:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:49] [d(0)] core: Reloading module windows/browser/tom_sawyer_tsgetx71ex552...
+[07/03/2012 16:04:49] [w(0)] core: The module windows/browser/tom_sawyer_tsgetx71ex552 is ambiguous with windows/browser/tom_sawyer_tsgetx71ex552.
+[07/03/2012 16:04:49] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:50] [d(0)] core: Reloading module windows/browser/winzip_fileview...
+[07/03/2012 16:04:50] [w(0)] core: The module windows/browser/winzip_fileview is ambiguous with windows/browser/winzip_fileview.
+[07/03/2012 16:04:50] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:51] [d(0)] core: Reloading module windows/browser/wmi_admintools...
+[07/03/2012 16:04:51] [w(0)] core: The module windows/browser/wmi_admintools is ambiguous with windows/browser/wmi_admintools.
+[07/03/2012 16:04:51] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:51] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:04:52] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder sparc/longxor_tag (size is 180)
+[07/03/2012 16:04:52] [e(0)] core: Exploit failed (multi/handler): Rex::AddressInUse The address is already in use (0.0.0.0:3333).
+[07/03/2012 16:04:52] [e(0)] core: Exploit failed (multi/handler): Rex::AddressInUse The address is already in use (0.0.0.0:6666).
+[07/03/2012 16:04:52] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:04:52] [e(0)] core: Exploit failed (multi/handler): Rex::AddressInUse The address is already in use (0.0.0.0:7777).
+[07/03/2012 16:06:27] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:06:28] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:06:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:06:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:06:32] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:06:33] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:06:34] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:06:34] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/modules/exploits/windows/browser/wmi_admintools.rb:216:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 16:06:35] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:06:36] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:06:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:06:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:06:37] [e(0)] rex: Proc::on_request: Errno::ECONNRESET: Connection reset by peer
+
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write_nonblock'
+/home/doug/msf3/lib/rex/io/stream.rb:47:in `write'
+/home/doug/msf3/lib/rex/io/stream.rb:148:in `timed_write'
+/home/doug/msf3/lib/rex/io/stream.rb:179:in `put'
+/home/doug/msf3/lib/rex/proto/http/server.rb:45:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:484:in `send_response'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:870:in `send_response_html'
+/home/doug/msf3/modules/exploits/windows/browser/wmi_admintools.rb:205:in `on_request_uri'
+/home/doug/msf3/lib/msf/core/exploit/http/server.rb:177:in `block in start_service'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `call'
+/home/doug/msf3/lib/rex/proto/http/handler/proc.rb:38:in `on_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:355:in `dispatch_request'
+/home/doug/msf3/lib/rex/proto/http/server.rb:289:in `on_client_data'
+/home/doug/msf3/lib/rex/proto/http/server.rb:149:in `block in start'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `call'
+/home/doug/msf3/lib/rex/io/stream_server.rb:48:in `on_client_data'
+/home/doug/msf3/lib/rex/io/stream_server.rb:192:in `block in monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `each'
+/home/doug/msf3/lib/rex/io/stream_server.rb:190:in `monitor_clients'
+/home/doug/msf3/lib/rex/io/stream_server.rb:73:in `block in start'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `call'
+/home/doug/msf3/lib/rex/thread_factory.rb:22:in `block in spawn'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[07/03/2012 16:06:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:09:12] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[07/03/2012 16:10:49] [d(0)] core: Reloading module multi/browser/firefox_escape_retval...
+[07/03/2012 16:10:49] [w(0)] core: The module multi/browser/firefox_escape_retval is ambiguous with multi/browser/firefox_escape_retval.
+[07/03/2012 16:10:50] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:10:50] [d(0)] core: Reloading module multi/browser/java_atomicreferencearray...
+[07/03/2012 16:10:50] [w(0)] core: The module multi/browser/java_atomicreferencearray is ambiguous with multi/browser/java_atomicreferencearray.
+[07/03/2012 16:10:50] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:10:51] [d(0)] core: Reloading module multi/browser/java_rhino...
+[07/03/2012 16:10:51] [w(0)] core: The module multi/browser/java_rhino is ambiguous with multi/browser/java_rhino.
+[07/03/2012 16:10:51] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:10:52] [d(0)] core: Reloading module multi/browser/mozilla_compareto...
+[07/03/2012 16:10:52] [w(0)] core: The module multi/browser/mozilla_compareto is ambiguous with multi/browser/mozilla_compareto.
+[07/03/2012 16:10:52] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:10:52] [d(0)] core: Reloading module multi/browser/mozilla_navigatorjava...
+[07/03/2012 16:10:52] [w(0)] core: The module multi/browser/mozilla_navigatorjava is ambiguous with multi/browser/mozilla_navigatorjava.
+[07/03/2012 16:10:53] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 341)
+[07/03/2012 16:10:53] [d(0)] core: Reloading module multi/browser/opera_configoverwrite...
+[07/03/2012 16:10:53] [w(0)] core: The module multi/browser/opera_configoverwrite is ambiguous with multi/browser/opera_configoverwrite.
+[07/03/2012 16:10:53] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 261)
+[07/03/2012 16:10:54] [d(0)] core: Reloading module multi/browser/opera_historysearch...
+[07/03/2012 16:10:54] [w(0)] core: The module multi/browser/opera_historysearch is ambiguous with multi/browser/opera_historysearch.
+[07/03/2012 16:10:54] [d(0)] core: Module generic/custom is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:10:54] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:10:54] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/browser/opera_historysearch for PayloadType: limiter was cmd
+[07/03/2012 16:10:54] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 589)
+[07/03/2012 16:10:55] [d(0)] core: Reloading module osx/browser/mozilla_mchannel...
+[07/03/2012 16:10:55] [w(0)] core: The module osx/browser/mozilla_mchannel is ambiguous with osx/browser/mozilla_mchannel.
+[07/03/2012 16:10:55] [d(0)] core: Reloading module osx/browser/safari_metadata_archive...
+[07/03/2012 16:10:55] [w(0)] core: The module osx/browser/safari_metadata_archive is ambiguous with osx/browser/safari_metadata_archive.
+[07/03/2012 16:10:55] [d(0)] core: Module generic/custom is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:10:55] [d(0)] core: Module generic/shell_bind_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:10:55] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with osx/browser/safari_metadata_archive for PayloadType: limiter was cmd
+[07/03/2012 16:10:55] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder cmd/generic_sh (size is 140)
+[07/03/2012 16:10:55] [e(0)] core: Exploit failed (osx/browser/safari_metadata_archive): This exploit requires the zip command to be installed in your path
+[07/03/2012 16:10:56] [d(0)] core: Reloading module windows/browser/adobe_flash_mp4_cprt...
+[07/03/2012 16:10:56] [w(0)] core: The module windows/browser/adobe_flash_mp4_cprt is ambiguous with windows/browser/adobe_flash_mp4_cprt.
+[07/03/2012 16:10:56] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:10:57] [d(0)] core: Reloading module windows/browser/adobe_flash_rtmp...
+[07/03/2012 16:10:57] [w(0)] core: The module windows/browser/adobe_flash_rtmp is ambiguous with windows/browser/adobe_flash_rtmp.
+[07/03/2012 16:10:57] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:10:57] [d(0)] core: Reloading module windows/browser/apple_quicktime_marshaled_punk...
+[07/03/2012 16:10:57] [w(0)] core: The module windows/browser/apple_quicktime_marshaled_punk is ambiguous with windows/browser/apple_quicktime_marshaled_punk.
+[07/03/2012 16:10:58] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:10:58] [d(0)] core: Reloading module windows/browser/apple_quicktime_rtsp...
+[07/03/2012 16:10:58] [w(0)] core: The module windows/browser/apple_quicktime_rtsp is ambiguous with windows/browser/apple_quicktime_rtsp.
+[07/03/2012 16:10:59] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:00] [d(0)] core: Reloading module windows/browser/apple_quicktime_smil_debug...
+[07/03/2012 16:11:00] [w(0)] core: The module windows/browser/apple_quicktime_smil_debug is ambiguous with windows/browser/apple_quicktime_smil_debug.
+[07/03/2012 16:11:01] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:01] [d(0)] core: Reloading module windows/browser/blackice_downloadimagefileurl...
+[07/03/2012 16:11:01] [w(0)] core: The module windows/browser/blackice_downloadimagefileurl is ambiguous with windows/browser/blackice_downloadimagefileurl.
+[07/03/2012 16:11:02] [d(0)] core: Reloading module windows/browser/ibm_tivoli_pme_activex_bof...
+[07/03/2012 16:11:02] [w(0)] core: The module windows/browser/ibm_tivoli_pme_activex_bof is ambiguous with windows/browser/ibm_tivoli_pme_activex_bof.
+[07/03/2012 16:11:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:03] [d(0)] core: Reloading module windows/browser/ie_createobject...
+[07/03/2012 16:11:03] [w(0)] core: The module windows/browser/ie_createobject is ambiguous with windows/browser/ie_createobject.
+[07/03/2012 16:11:04] [d(0)] core: Reloading module windows/browser/mozilla_interleaved_write...
+[07/03/2012 16:11:04] [w(0)] core: The module windows/browser/mozilla_interleaved_write is ambiguous with windows/browser/mozilla_interleaved_write.
+[07/03/2012 16:11:04] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:04] [d(0)] core: Reloading module windows/browser/mozilla_mchannel...
+[07/03/2012 16:11:04] [w(0)] core: The module windows/browser/mozilla_mchannel is ambiguous with windows/browser/mozilla_mchannel.
+[07/03/2012 16:11:05] [d(0)] core: Reloading module windows/browser/mozilla_nstreerange...
+[07/03/2012 16:11:05] [w(0)] core: The module windows/browser/mozilla_nstreerange is ambiguous with windows/browser/mozilla_nstreerange.
+[07/03/2012 16:11:06] [d(0)] core: Reloading module windows/browser/ms10_018_ie_behaviors...
+[07/03/2012 16:11:06] [w(0)] core: The module windows/browser/ms10_018_ie_behaviors is ambiguous with windows/browser/ms10_018_ie_behaviors.
+[07/03/2012 16:11:06] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:11:07] [d(0)] core: Reloading module windows/browser/ms11_003_ie_css_import...
+[07/03/2012 16:11:07] [w(0)] core: The module windows/browser/ms11_003_ie_css_import is ambiguous with windows/browser/ms11_003_ie_css_import.
+[07/03/2012 16:11:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:07] [d(0)] core: Reloading module windows/browser/ms11_050_mshtml_cobjectelement...
+[07/03/2012 16:11:07] [w(0)] core: The module windows/browser/ms11_050_mshtml_cobjectelement is ambiguous with windows/browser/ms11_050_mshtml_cobjectelement.
+[07/03/2012 16:11:08] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 323)
+[07/03/2012 16:11:08] [d(0)] core: Reloading module windows/browser/ms12_004_midi...
+[07/03/2012 16:11:08] [w(0)] core: The module windows/browser/ms12_004_midi is ambiguous with windows/browser/ms12_004_midi.
+[07/03/2012 16:11:09] [d(0)] core: Reloading module windows/browser/msxml_get_definition_code_exec...
+[07/03/2012 16:11:09] [w(0)] core: The module windows/browser/msxml_get_definition_code_exec is ambiguous with windows/browser/msxml_get_definition_code_exec.
+[07/03/2012 16:11:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:10] [d(0)] core: Reloading module windows/browser/tom_sawyer_tsgetx71ex552...
+[07/03/2012 16:11:10] [w(0)] core: The module windows/browser/tom_sawyer_tsgetx71ex552 is ambiguous with windows/browser/tom_sawyer_tsgetx71ex552.
+[07/03/2012 16:11:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:10] [d(0)] core: Reloading module windows/browser/winzip_fileview...
+[07/03/2012 16:11:10] [w(0)] core: The module windows/browser/winzip_fileview is ambiguous with windows/browser/winzip_fileview.
+[07/03/2012 16:11:10] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:11] [d(0)] core: Reloading module windows/browser/wmi_admintools...
+[07/03/2012 16:11:11] [w(0)] core: The module windows/browser/wmi_admintools is ambiguous with windows/browser/wmi_admintools.
+[07/03/2012 16:11:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:12] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[07/03/2012 16:11:12] [i(0)] core: generic/shell_reverse_tcp: iteration 1: Successfully encoded with encoder sparc/longxor_tag (size is 180)
+[07/03/2012 16:11:12] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:11:22] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 16:11:24] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:25] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:26] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:26] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 16:11:27] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:28] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:29] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:30] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 16:11:30] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:11:30] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 16:11:30] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[07/03/2012 16:11:36] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/fnstenv_mov (size is 314)
+[07/03/2012 16:11:37] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:11:37] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[07/03/2012 16:15:47] [d(0)] core: Reloading module multi/gather/filezilla_client_cred...
+[07/03/2012 16:15:47] [w(0)] core: The module multi/gather/filezilla_client_cred is ambiguous with multi/gather/filezilla_client_cred.
+[07/03/2012 16:16:06] [d(0)] core: Reloading module windows/escalate/getsystem...
+[07/03/2012 16:16:06] [w(0)] core: The module windows/escalate/getsystem is ambiguous with windows/escalate/getsystem.
+[07/03/2012 16:16:06] [e(0)] core: Post failed: Rex::Script::Completed Rex::Script::Completed
+[09/20/2012 15:58:29] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 15:58:56] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:06:21] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:07:00] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:08:17] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:09:19] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:09:20] [i(0)] core: windows/shell/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/20/2012 16:10:23] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/20/2012 16:11:26] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/20/2012 16:13:44] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 10:58:01] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 10:58:46] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 10:59:15] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:05:49] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:06:11] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:10:18] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:12:04] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:12:42] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:17:58] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:18:40] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:25:56] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:28:49] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:36:40] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:37:09] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:45:34] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:46:51] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:47:37] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:47:38] [i(0)] core: windows/x64/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 422)
+[09/25/2012 11:56:03] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 11:56:49] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:57:24] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:58:03] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 11:58:03] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 11:59:49] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 12:00:22] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:00:45] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:00:45] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 12:02:33] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 12:03:34] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:05:02] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:05:02] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 12:07:12] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 12:09:50] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:11:15] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:29:18] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:33:46] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:37:33] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:39:06] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:40:44] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:40:44] [i(0)] core: windows/x64/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 422)
+[09/25/2012 12:46:56] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:47:54] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:49:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 12:50:24] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 12:58:08] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:58:32] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 12:58:32] [i(0)] core: windows/x64/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 422)
+[09/25/2012 13:03:22] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:03:22] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:06:56] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:06:57] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:08:42] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:08:43] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:09:14] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:09:15] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:09:16] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:10:06] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 13:12:07] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:13:17] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:13:17] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:13:18] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:13:40] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 13:13:44] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:13:46] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:19:36] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:19:37] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:19:38] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:20:07] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 13:20:09] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:20:11] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:21:37] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:21:38] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 13:21:39] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:21:53] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 13:21:56] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:21:58] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:31:48] [w(0)] core: windows/meterpreter/reverse_tcp: Failed to find preferred encoder x86/shikata_ga_nai -c 5
+[09/25/2012 13:31:48] [e(0)] core: Exploit failed (multi/browser/java_signed_applet): No encoders encoded the buffer successfully.
+[09/25/2012 13:32:04] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:32:05] [e(0)] core: Exploit failed (multi/browser/java_signed_applet): Rex::AddressInUse The address is already in use (0.0.0.0:4444).
+[09/25/2012 13:33:03] [d(0)] core: Reloading module multi/browser/java_signed_applet...
+[09/25/2012 13:33:03] [w(0)] core: The module multi/browser/java_signed_applet is ambiguous with multi/browser/java_signed_applet.
+[09/25/2012 13:33:03] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:33:15] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 13:33:16] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 13:33:19] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 14:56:41] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 14:58:59] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 14:59:00] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:14:16] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 15:15:31] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:31:58] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:31:59] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:32:28] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 15:35:17] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:35:17] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:35:58] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:45:35] [e(0)] core: Exploit failed (multi/handler): Interrupt 
+[09/25/2012 15:46:39] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:46:39] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:47:30] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 15:47:34] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:47:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:52:08] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 15:53:47] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:54:37] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:54:38] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:54:38] [e(0)] core: Exploit failed (multi/browser/java_signed_applet): Rex::AddressInUse The address is already in use (0.0.0.0:8080).
+[09/25/2012 15:55:08] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:55:32] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:55:33] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:55:33] [e(0)] core: Exploit failed (multi/browser/java_signed_applet): Rex::AddressInUse The address is already in use (0.0.0.0:8080).
+[09/25/2012 15:56:52] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:56:52] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:58:35] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:58:55] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 15:59:30] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 15:59:32] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 15:59:34] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:03:08] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:03:31] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:03:31] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:04:03] [w(0)] core: Generating SSL certificate for Meterpreter sessions
+[09/25/2012 16:04:03] [w(0)] core: Generated SSL certificate for Meterpreter sessions
+[09/25/2012 16:04:03] [e(0)] core: Exception raised from handle_connection: OpenSSL::SSL::SSLError: SSL_accept returned=1 errno=0 state=SSLv3 read client hello B: wrong version number
+
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:158:in `accept'
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:158:in `swap_sock_plain_to_ssl'
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:136:in `init_meterpreter'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:63:in `initialize'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter_x86_win.rb:19:in `initialize'
+/home/doug/msf3/lib/msf/core/handler.rb:189:in `new'
+/home/doug/msf3/lib/msf/core/handler.rb:189:in `create_session'
+/home/doug/msf3/lib/msf/core/payload/stager.rb:136:in `handle_connection_stage'
+/home/doug/msf3/lib/msf/core/payload/stager.rb:127:in `handle_connection'
+/home/doug/msf3/lib/msf/core/handler/reverse_tcp.rb:165:in `block in start_handler'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[09/25/2012 16:04:12] [e(0)] core: Exception raised from handle_connection: OpenSSL::SSL::SSLError: SSL_accept SYSCALL returned=5 errno=0 state=SSLv3 read client hello B
+
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:158:in `accept'
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:158:in `swap_sock_plain_to_ssl'
+/home/doug/msf3/lib/rex/post/meterpreter/client.rb:136:in `init_meterpreter'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:63:in `initialize'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter_x86_win.rb:19:in `initialize'
+/home/doug/msf3/lib/msf/core/handler.rb:189:in `new'
+/home/doug/msf3/lib/msf/core/handler.rb:189:in `create_session'
+/home/doug/msf3/lib/msf/core/payload/stager.rb:136:in `handle_connection_stage'
+/home/doug/msf3/lib/msf/core/payload/stager.rb:127:in `handle_connection'
+/home/doug/msf3/lib/msf/core/handler/reverse_tcp.rb:165:in `block in start_handler'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `call'
+/home/doug/msf3/lib/msf/core/thread_manager.rb:100:in `block in spawn'
+[09/25/2012 16:06:17] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:06:36] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:06:36] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:12:09] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:12:30] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:12:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:13:38] [w(0)] core: Generating SSL certificate for Meterpreter sessions
+[09/25/2012 16:13:38] [w(0)] core: Generated SSL certificate for Meterpreter sessions
+[09/25/2012 16:31:14] [w(0)] core: Session 1 has died
+[09/25/2012 16:32:45] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:33:42] [d(0)] core: Reloading module multi/handler...
+[09/25/2012 16:33:42] [w(0)] core: The module multi/handler is ambiguous with multi/handler.
+[09/25/2012 16:33:42] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:33:42] [e(0)] core: Exploit failed (multi/handler): Setting ExitOnSession to false requires running as a job (exploit -j)
+[09/25/2012 16:33:57] [d(0)] core: Reloading module multi/handler...
+[09/25/2012 16:33:57] [w(0)] core: The module multi/handler is ambiguous with multi/handler.
+[09/25/2012 16:33:57] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:33:57] [e(0)] core: Exploit failed (multi/handler): Setting ExitOnSession to false requires running as a job (exploit -j)
+[09/25/2012 16:34:19] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:36:41] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:37:40] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:37:59] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:38:00] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:45:12] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:45:32] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:45:32] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:49:20] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:49:20] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:49:33] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 16:49:35] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:49:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 16:49:49] [w(0)] core: Generating SSL certificate for Meterpreter sessions
+[09/25/2012 16:49:49] [w(0)] core: Generated SSL certificate for Meterpreter sessions
+[09/25/2012 16:54:53] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:56:01] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:56:22] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/25/2012 16:56:23] [i(0)] core: windows/meterpreter/reverse_https: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 390)
+[09/25/2012 16:59:15] [e(0)] core: Error loading plugin /home/doug/msf3/plugins/nmap: cannot load such file -- /home/doug/msf3/plugins/nmap
+
+/usr/local/lib/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+/usr/local/lib/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+/home/doug/msf3/lib/fastlib.rb:369:in `require'
+/home/doug/msf3/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `block in require'
+/home/doug/msf3/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:236:in `load_dependency'
+/home/doug/msf3/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `require'
+/home/doug/msf3/lib/msf/core/plugin_manager.rb:52:in `load'
+/home/doug/msf3/lib/msf/base/simple/framework.rb:34:in `load'
+/home/doug/msf3/lib/msf/ui/console/command_dispatcher/core.rb:965:in `cmd_load'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:200:in `run'
+./msfcli:251:in `<main>'
+[09/25/2012 17:00:23] [i(0)] core: windows/meterpreter/reverse_https: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 392)
+[09/25/2012 17:00:23] [e(0)] core: Exploit failed (multi/handler): Rex::RuntimeError The supplied resource '/' is already added.
+[09/25/2012 17:00:46] [d(0)] core: Reloading module multi/handler...
+[09/25/2012 17:00:46] [w(0)] core: The module multi/handler is ambiguous with multi/handler.
+[09/25/2012 17:00:46] [i(0)] core: windows/meterpreter/reverse_https: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 392)
+[09/25/2012 17:00:46] [e(0)] core: Exploit failed (multi/handler): Setting ExitOnSession to false requires running as a job (exploit -j)
+[09/25/2012 17:03:02] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 17:03:05] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:03:07] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:08:35] [e(0)] meterpreter: Error running command ps: Interrupt 
+[09/25/2012 17:08:35] [d(0)] meterpreter: Call stack:
+/home/doug/msf3/lib/rex/post/meterpreter/packet_response_waiter.rb:69:in `select'
+/home/doug/msf3/lib/rex/post/meterpreter/packet_response_waiter.rb:69:in `block in wait'
+/usr/lib/ruby/1.9.1/timeout.rb:68:in `timeout'
+/home/doug/msf3/lib/rex/post/meterpreter/packet_response_waiter.rb:67:in `wait'
+/home/doug/msf3/lib/rex/post/meterpreter/packet_dispatcher.rb:219:in `send_packet_wait_response'
+/home/doug/msf3/lib/rex/post/meterpreter/packet_dispatcher.rb:188:in `send_request'
+/home/doug/msf3/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb:223:in `get_processes'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/sys.rb:276:in `cmd_ps'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:104:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:68:in `block in interact'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `call'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `run'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:66:in `interact'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:431:in `_interact'
+/home/doug/msf3/lib/rex/ui/interactive.rb:49:in `interact'
+/home/doug/msf3/lib/msf/ui/console/command_dispatcher/core.rb:1568:in `cmd_sessions'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:200:in `run'
+./msfcli:251:in `<main>'
+[09/25/2012 17:08:54] [w(0)] core: Session 1 has died
+[09/25/2012 17:10:28] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:10:28] [e(0)] core: Exploit failed (multi/handler): Rex::AddressInUse The address is already in use (0.0.0.0:4444).
+[09/25/2012 17:20:42] [e(0)] core: Exploit failed (windows/browser/java_codebase_trust): windows/meterpreter/reverse_tcp is not a compatible payload.
+[09/25/2012 17:21:14] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[09/25/2012 17:21:14] [e(0)] core: Exploit failed (windows/browser/java_codebase_trust): Rex::AddressInUse The address is already in use (0.0.0.0:4444).
+[09/25/2012 17:21:34] [i(0)] core: java/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder generic/none (size is 5480)
+[09/25/2012 17:21:47] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 17:23:23] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:23:32] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/25/2012 17:23:34] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:23:35] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/25/2012 17:27:40] [e(0)] meterpreter: Error running command execute: Errno::ENOENT No such file or directory - calc.exe
+[09/25/2012 17:27:40] [d(0)] meterpreter: Call stack:
+/home/doug/msf3/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb:146:in `initialize'
+/home/doug/msf3/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb:146:in `new'
+/home/doug/msf3/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb:146:in `execute'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/sys.rb:180:in `cmd_execute'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:104:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:68:in `block in interact'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `call'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `run'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:66:in `interact'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:431:in `_interact'
+/home/doug/msf3/lib/rex/ui/interactive.rb:49:in `interact'
+/home/doug/msf3/lib/msf/ui/console/command_dispatcher/core.rb:1568:in `cmd_sessions'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:200:in `run'
+./msfcli:251:in `<main>'
+[09/25/2012 17:31:21] [e(0)] core: Error in script: Rex::Post::Meterpreter::RequestError stdapi_sys_process_execute: Operation failed: The system cannot find the file specified.
+[09/25/2012 17:31:21] [d(0)] core: Callstack: /home/doug/msf3/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb:164:in `execute'
+/home/doug/msf3/lib/rex/script/base.rb:83:in `dumphash'
+/home/doug/msf3/lib/rex/script/base.rb:105:in `run'
+/home/doug/msf3/lib/rex/script/base.rb:42:in `eval'
+/home/doug/msf3/lib/rex/script/base.rb:42:in `run'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:212:in `execute_file'
+/home/doug/msf3/lib/msf/base/sessions/scriptable.rb:87:in `execute_script'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console/command_dispatcher/core.rb:514:in `cmd_run'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:104:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:68:in `block in interact'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `call'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:190:in `run'
+/home/doug/msf3/lib/rex/post/meterpreter/ui/console.rb:66:in `interact'
+/home/doug/msf3/lib/msf/base/sessions/meterpreter.rb:431:in `_interact'
+/home/doug/msf3/lib/rex/ui/interactive.rb:49:in `interact'
+/home/doug/msf3/lib/msf/ui/console/command_dispatcher/core.rb:1568:in `cmd_sessions'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:420:in `run_command'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:382:in `block in run_single'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `each'
+/home/doug/msf3/lib/rex/ui/text/dispatcher_shell.rb:376:in `run_single'
+/home/doug/msf3/lib/rex/ui/text/shell.rb:200:in `run'
+./msfcli:251:in `<main>'
+[09/25/2012 20:51:10] [w(0)] core: Session 2 has died
+[09/26/2012 09:27:41] [e(0)] rex: Failed to find handler for resource: /
+[09/26/2012 09:27:41] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/26/2012 09:28:25] [e(0)] rex: Failed to find handler for resource: /favicon.ico
+[09/26/2012 09:28:30] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/26/2012 09:28:36] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/26/2012 09:28:37] [i(0)] core: windows/meterpreter/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 317)
+[09/26/2012 09:39:14] [d(0)] core: Reloading module windows/wlan/wlan_profile...
+[09/26/2012 09:39:14] [w(0)] core: The module windows/wlan/wlan_profile is ambiguous with windows/wlan/wlan_profile.
+[09/26/2012 14:49:05] [w(0)] core: The module php/meterpreter/bind_tcp is ambiguous with php/meterpreter/bind_tcp.
+[09/26/2012 14:49:05] [e(0)] core: LoadError cannot load such file -- rspike
+[09/26/2012 14:49:05] [e(0)] core: LoadError cannot load such file -- rspike
