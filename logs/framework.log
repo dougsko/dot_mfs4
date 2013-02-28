@@ -3041,3 +3041,100 @@ Call stack:
 [02/27/2013 14:35:47] [e(0)] core: Failed to reload linux/irc/iroffer
 [02/27/2013 14:35:58] [d(0)] core: Reloading module linux/irc/iroffer...
 [02/27/2013 14:35:58] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:12:56] [e(0)] core: /home/doug/.msf4/modules/auxiliary/fuzzers/spike/generic_send_tcp.rb failed to load due to the following error:
+LoadError
+no such file to load -- rspike
+Call stack:
+<internal:lib/rubygems/custom_require>:29:in `require'
+<internal:lib/rubygems/custom_require>:29:in `require'
+/home/doug/metasploit-framework/lib/fastlib.rb:374:in `require'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `block in require'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:236:in `load_dependency'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `require'
+/home/doug/.msf4/modules/auxiliary/fuzzers/spike/generic_send_tcp.rb:14:in `module_eval_with_lexical_scope'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:54:in `module_eval'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:54:in `module_eval_with_lexical_scope'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:146:in `block in load_module'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:541:in `call'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:541:in `namespace_module_transaction'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:200:in `load_module'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:261:in `block in load_modules'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:52:in `block (2 levels) in each_module_reference_name'
+/home/doug/metasploit-framework/lib/rex/file.rb:80:in `block in find'
+/home/doug/metasploit-framework/lib/rex/file.rb:79:in `catch'
+/home/doug/metasploit-framework/lib/rex/file.rb:79:in `find'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:43:in `block in each_module_reference_name'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:27:in `foreach'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:27:in `each_module_reference_name'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:259:in `load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:99:in `block in load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:97:in `each'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:97:in `load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:54:in `block in add_module_path'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:53:in `each'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:53:in `add_module_path'
+/home/doug/metasploit-framework/lib/msf/base/simple/framework.rb:173:in `init_module_paths'
+/home/doug/metasploit-framework/lib/msf/ui/console/driver.rb:226:in `initialize'
+./msfconsole:168:in `new'
+./msfconsole:168:in `<main>'
+[02/28/2013 11:12:56] [e(0)] core: /home/doug/.msf4/modules/auxiliary/fuzzers/spike/send_wifi.rb failed to load due to the following error:
+LoadError
+no such file to load -- rspike
+Call stack:
+<internal:lib/rubygems/custom_require>:29:in `require'
+<internal:lib/rubygems/custom_require>:29:in `require'
+/home/doug/metasploit-framework/lib/fastlib.rb:374:in `require'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `block in require'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:236:in `load_dependency'
+/home/doug/metasploit-framework/lib/gemcache/ruby/1.9.1/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:251:in `require'
+/home/doug/.msf4/modules/auxiliary/fuzzers/spike/send_wifi.rb:3:in `module_eval_with_lexical_scope'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:54:in `module_eval'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:54:in `module_eval_with_lexical_scope'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:146:in `block in load_module'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:541:in `call'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:541:in `namespace_module_transaction'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:200:in `load_module'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:261:in `block in load_modules'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:52:in `block (2 levels) in each_module_reference_name'
+/home/doug/metasploit-framework/lib/rex/file.rb:80:in `block in find'
+/home/doug/metasploit-framework/lib/rex/file.rb:79:in `catch'
+/home/doug/metasploit-framework/lib/rex/file.rb:79:in `find'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:43:in `block in each_module_reference_name'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:27:in `foreach'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/directory.rb:27:in `each_module_reference_name'
+/home/doug/metasploit-framework/lib/msf/core/modules/loader/base.rb:259:in `load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:99:in `block in load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:97:in `each'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/loading.rb:97:in `load_modules'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:54:in `block in add_module_path'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:53:in `each'
+/home/doug/metasploit-framework/lib/msf/core/module_manager/module_paths.rb:53:in `add_module_path'
+/home/doug/metasploit-framework/lib/msf/base/simple/framework.rb:173:in `init_module_paths'
+/home/doug/metasploit-framework/lib/msf/ui/console/driver.rb:226:in `initialize'
+./msfconsole:168:in `new'
+./msfconsole:168:in `<main>'
+[02/28/2013 11:12:56] [i(0)] core: linux/x86/shell/reverse_tcp: iteration 1: Successfully encoded with encoder x86/shikata_ga_nai (size is 98)
+[02/28/2013 11:14:56] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 11:16:11] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 11:16:16] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:16:16] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:16:28] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 11:20:04] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:20:04] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:20:12] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 11:35:58] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:35:58] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:36:06] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 11:42:29] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:42:29] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:42:36] [e(0)] core: Post failed: NameError uninitialized constant Msf::Modules::Mod706f73742f6c696e75782f6972632f69726f66666572::Metasploit3::DATASTORE
+[02/28/2013 11:43:27] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:43:27] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:43:34] [e(0)] core: Post failed: NameError uninitialized constant Msf::Modules::Mod706f73742f6c696e75782f6972632f69726f66666572::Metasploit3::DATASTORE
+[02/28/2013 11:44:45] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:44:45] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:44:52] [e(0)] core: Post failed: NameError uninitialized constant Msf::Modules::Mod706f73742f6c696e75782f6972632f69726f66666572::Metasploit3::DATASTORE
+[02/28/2013 11:45:20] [d(0)] core: Reloading module linux/irc/iroffer...
+[02/28/2013 11:45:20] [w(0)] core: The module linux/irc/iroffer is ambiguous with linux/irc/iroffer.
+[02/28/2013 11:45:27] [e(0)] core: Post failed: SystemExit exit
+[02/28/2013 12:56:43] [w(0)] core: Exception reading from Session 1: EOFError EOFError
